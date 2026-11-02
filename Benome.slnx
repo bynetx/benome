@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Benome.Api/Benome.Api.csproj" />
+    <Project Path="src/Benome.Shared/Benome.Shared.csproj" />
+    <Project Path="src/Benome.Web/Benome.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Benome.Tests/Benome.Tests.csproj" />
+  </Folder>
+</Solution>
